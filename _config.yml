@@ -3,9 +3,9 @@
 #
 
 # Name of your site (displayed in the header)
-name: "goldstine's blog"
+name: "JhinJax's blog"
 # Short bio or description (displayed in the header)
-description: "个人技术公众号：Goldstine  分享编程资源 | 学习路线"
+description: "与其相信谣言，不如一直学习"
 
 #
 # Flags below are optional
@@ -47,11 +47,11 @@ footer-links:
   #weibo: frommidworld #请输入你的微博个性域名 https://www.weibo.com/<thispart>
   behance: # https://www.behance.net/<username>
   dribbble:
-  zhihu: goldstine
-  email: 15797899690@163.com
+  zhihu: 
+  email: 
   facebook:
   flickr:
-  github: goldstine 
+  github: JhinJax-Star 
   googleplus: # anything in your profile username that comes after plus.google.com/
   instagram:
   linkedin:
@@ -71,17 +71,17 @@ disqus: # fromendworld
 
 # Gitalk
 gitalk:
-  clientID: 062eeb9a0adf39976274
-  clientSecret: 3c319e4cf4a90b70809d7fd1b25e4c6c10376a10
-  repo: goldstine.github.io
-  owner: goldstine
+  clientID: Ov23lignlnmLuZXY0Ks8
+  clientSecret: c6565811b92d1dea6b933ef77f003a9c21f0fc01
+  repo: jhinjax-star.github.io
+  owner: JhinJax-Star
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-#google_analytics: 
+google_analytics: G-G9QYSF4L4M
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: https://goldstine.github.io
+url: https://jhinjax-star.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
