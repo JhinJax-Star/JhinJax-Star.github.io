@@ -21,5 +21,7 @@ select * from edf where referrer = 'jhinjax123' union select sleep(5);
 referrer ='jhinjax123' union select sleep(5),2;--
 ```
 依次类推枚举
+
 枚举过程可查看[基于布尔值的Blind SQLi - 野荷 - 博客园 (cnblogs.com)](https://www.cnblogs.com/jhinjax/p/17258440.html)
+
 只不过多了个sleep(5)罢了，其他的都一样
